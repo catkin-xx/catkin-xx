@@ -2,4 +2,4 @@
 - 👀 I’m interested in the computing architecture.
 - 🌱 I’m currently learning SNN.
 - 💞️ I’m looking to collaborate on coding,haha
-- 📫 How to reach me :http://meibay.com; catkin1235@126.com;wechat:catkin369.
+- 📫 How to reach me :http://catkin123.com; catkin1235@126.com;wechat:catkin369.
